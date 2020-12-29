@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+    <channel>
+        <title>Ofertas Express</title>
+        <link>https://artarte.github.io/ARTARTE_PC</link>
+        <description>Se muestran distintas ofertas que van surgiendo de las guitarras Taylor</description>
+        <language>es-es</language>  
+        <item>
+            <title>K24ce LTD</title>
+            <link>https://artarte.github.io/ARTARTE_PC/K24ce</link>
+            <description>No te pierdas nuestra última oferta, dentro de nuestra línea estándar, el K24ce es uno de los favoritos de nuestra serie Koa, 
+        que combina el impresionante atractivo tonal y estético de un cuerpo de koa completamente sólido con la comodidad y versatilidad de la forma
+         de nuestro cuerpo Grand Auditorium. Esta edición limitada presenta un paquete alternativo de detalles ricos en madera, 
+         que incluyen nuestro esquema de incrustaciones de koa flotante inspirado en las algas marinas y diapasón de boj Ocean Vine, 
+         con roseta y encuadernación de arce figurado. Tonalmente, la parte superior de koa nivela un ataque de rasgueo animado para producir una voz clara
+          y enfocada con un timbre de gama alta. Quizás la mejor parte: cuanto más lo juegas, mejor suena. Y con nuestra electrónica ES2 integrada, 
+          puede contar con un tono amplificado de sonido natural siempre que sea el momento adecuado.</description>
+        </item>
+    </channel>
+</rss>
