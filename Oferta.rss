@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<rss version="2.0">
     <channel>
         <title>Ofertas Express</title>
         <link>https://artarte.github.io/ARTARTE_PC</link>
@@ -15,6 +15,7 @@
          con roseta y encuadernación de arce figurado. Tonalmente, la parte superior de koa nivela un ataque de rasgueo animado para producir una voz clara
           y enfocada con un timbre de gama alta. Quizás la mejor parte: cuanto más lo juegas, mejor suena. Y con nuestra electrónica ES2 integrada, 
           puede contar con un tono amplificado de sonido natural siempre que sea el momento adecuado.</description>
+        <guid isPermaLink="true">https://artarte.github.io/ARTARTE_PC/K24ce</guid>
         </item>
     </channel>
 </rss>
